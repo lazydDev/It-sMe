@@ -4,6 +4,6 @@ I created this website to participate in "Samuel Miller's" 'I review your stupid
 
 ### ScreenShots
 
-![](Screenshot (19).png)
-![](Screenshot (20).png)
-![](Screenshot (21).png)
+![](Screenshot(19).png)
+![](Screenshot(20).png)
+![](Screenshot(21).png)
